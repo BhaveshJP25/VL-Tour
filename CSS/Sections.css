@@ -1,0 +1,36 @@
+/* CONTAINER */
+.VideoPlayerAndInfoContainer{
+  margin: 5px auto;
+}
+
+/* MANTHAN SECTION CONTAINER, IMAGES AND TEXT*/
+.ManthanSectionContainer{
+  margin: 30px 10%;
+  width: auto;
+}
+
+.ManthanSectionImgTag{
+  max-height: 40vh;
+}
+
+.ImgSecP{
+  font-size: 30px;
+  text-align: center;
+  color: #134e7d;
+}
+
+/* VIDEO PLAYER TEXT */
+.videoPlayerText{
+  padding-left: 30px;
+}
+
+.videoPlayerH1{
+  color: #2d3246;
+  text-align: center;
+}
+
+/* VIDEO PLAYER */
+video {
+  width: 100%;
+  height: auto;
+}
