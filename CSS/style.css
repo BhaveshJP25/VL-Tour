@@ -251,6 +251,10 @@ body {
 
 }
 
+.feedback{
+  align-content: center;
+  text-align: center;
+}
 /* CONTENT CONTAINER */
 .totalLibraryContent {
   background-color: #86aba1;
