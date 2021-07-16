@@ -169,13 +169,13 @@ body {
     .row{
         align-content: center;
     }
-.row  h2{
+    .row  h2{
         text-align: center;
         align-self:left;
         align-content: left;
         margin:0 0 0 0px;
         font-size:20px;
-        color: white;
+        color: #0a043c;
         font-weight: bold;
     }
     .row span{
@@ -185,12 +185,15 @@ body {
     .row item{
         align-self:center;
     }
+
+
+
 #timings,#recommend,#resource-person,#certifiedCourse,
 #newarrivals,#exams,#staffPublications{
     display:flex;
-    color: #1687a7;
+    color: white;
     font-size: 17px;
-    background-color: #a3d2ca;
+    background-color: #2a9dd6;
   min-width: 258.2px;
   min-height: 250px;
   border-bottom: 2px dotted;
@@ -204,6 +207,12 @@ body {
   align-content: center;
     justify-content: center;
 }
+
+.book-transaction{
+  padding: 0 25px 25px 25px;
+  text-align: center;
+}
+
 
 #timings{
 
@@ -390,3 +399,4 @@ li, ul, ol {
 .moretext {
   display: none;
 }
+
