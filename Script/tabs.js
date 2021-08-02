@@ -8,6 +8,7 @@
   tabs.click(function() {
     var content = this.hash.replace('/', '');
     tabs.removeClass("active");
+    
     // alert(this);
     $(this).addClass("active");
     $("#content").find('div').hide();
